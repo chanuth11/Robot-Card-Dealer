@@ -11,7 +11,6 @@ The card-dealing robot, shown in [FIGURE 1] deals playing cards to a variable nu
 
 **Marco V**  
 email: mvehauc@uwaterloo.ca
-
 **Rohan Sharma**  
 email: rjsharma@uwaterloo.ca  
 **Chanuth Weeraratna**  
