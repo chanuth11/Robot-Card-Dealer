@@ -10,10 +10,10 @@ The card-dealing robot, shown in [FIGURE 1] deals playing cards to a variable nu
 ## Creators
 
 **Marco V**  
-email: mvehauc@uwaterloo.ca
-**Rohan Sharma**  
-email: rjsharma@uwaterloo.ca  
+email:  mvehauc@uwaterloo.ca
+**Rohan Sharma**
+email:  rjsharma@uwaterloo.ca  
 **Chanuth Weeraratna**  
-email: chanuthw55@gmail.com  
+email:  chanuthw55@gmail.com  
 **David Szczecina**  
-email: dszczecina@uwaterloo.ca   
+email:  dszczecina@uwaterloo.ca   
