@@ -7,6 +7,9 @@ The card-dealing robot deals playing cards to a variable number of players and n
 
 ![New Project (4)](https://user-images.githubusercontent.com/57009205/146662561-e26ff3ce-d524-4109-b79b-ec4996ef1b91.jpg)
 
+Our software takes manual input through the EV3 interface and uses the information to move the robot to different positions on a table and deal cards for specific games. The colour sensor mode has simplified user inputs that makes the robot deal cards for certain games.
+The main function, as shown in Figure 2, loops a main menu, and allows the user to select between Manual and Colour Mode as many times as they need, until the user presses the button to quit the program.
+
 ## Flow Chart
 ![image](https://user-images.githubusercontent.com/57009205/146662425-049b2e09-7637-427e-a1e1-6e64c3199e66.png)
 
